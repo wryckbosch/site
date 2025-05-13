@@ -1,0 +1,32 @@
+
+---
+title: "About Me"
+---
+
+# About Me
+
+## Biography
+
+I am Wouter Ryckbosch, a professor at the Vrije Universiteit Brussel. My research focuses on the Social History of Capitalism and Digital Humanities. I have been actively involved in various research projects and have published numerous articles and books in my field.
+
+## CV
+
+### Education
+- PhD in History, Vrije Universiteit Brussel
+- MA in History, Vrije Universiteit Brussel
+- BA in History, Vrije Universiteit Brussel
+
+### Research Interests
+- Social History of Capitalism
+- Digital Humanities
+- Comparative History
+- Environmental History
+
+### Publications
+- Ryckbosch, W. (2023). Energy in the Early Modern Home: Material Cultures of Domestic Energy Consumption in Europe, 1450–1850. Routledge.
+- Kim, S., Baudru, J., Ryckbosch, W., Bersini, H., & Ginis, V. (2025). Early evidence of how LLMs outperform traditional systems on OCR/HTR tasks for historical records.
+- Kim, S., Vanhoyweghen, A., Ryckbosch, W., & Ginis, V. (2025). Is Intergenerational Elasticity (IGE) a Misleading Measure of Wealth Mobility?
+
+### Contact
+- Email: wouter.ryckbosch@vub.be
+- Address: Pleinlaan 2, 1050 Brussels, Belgium
